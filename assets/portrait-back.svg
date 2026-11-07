@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1086 1448">
+  <rect width="1086" height="1448" fill="#f1efec"/>
+  <g opacity=".06" stroke="#000"><path d="M0 0h1086"/><path d="M0 24h1086"/><path d="M0 48h1086"/><path d="M0 72h1086"/><path d="M0 96h1086"/><path d="M0 120h1086"/><path d="M0 144h1086"/><path d="M0 168h1086"/><path d="M0 192h1086"/><path d="M0 216h1086"/><path d="M0 240h1086"/><path d="M0 264h1086"/><path d="M0 288h1086"/><path d="M0 312h1086"/><path d="M0 336h1086"/><path d="M0 360h1086"/><path d="M0 384h1086"/><path d="M0 408h1086"/><path d="M0 432h1086"/><path d="M0 456h1086"/><path d="M0 480h1086"/><path d="M0 504h1086"/><path d="M0 528h1086"/><path d="M0 552h1086"/><path d="M0 576h1086"/><path d="M0 600h1086"/><path d="M0 624h1086"/><path d="M0 648h1086"/><path d="M0 672h1086"/><path d="M0 696h1086"/><path d="M0 720h1086"/><path d="M0 744h1086"/><path d="M0 768h1086"/><path d="M0 792h1086"/><path d="M0 816h1086"/><path d="M0 840h1086"/><path d="M0 864h1086"/><path d="M0 888h1086"/><path d="M0 912h1086"/><path d="M0 936h1086"/><path d="M0 960h1086"/><path d="M0 984h1086"/><path d="M0 1008h1086"/><path d="M0 1032h1086"/><path d="M0 1056h1086"/><path d="M0 1080h1086"/><path d="M0 1104h1086"/><path d="M0 1128h1086"/><path d="M0 1152h1086"/><path d="M0 1176h1086"/><path d="M0 1200h1086"/><path d="M0 1224h1086"/><path d="M0 1248h1086"/><path d="M0 1272h1086"/><path d="M0 1296h1086"/><path d="M0 1320h1086"/><path d="M0 1344h1086"/><path d="M0 1368h1086"/><path d="M0 1392h1086"/><path d="M0 1416h1086"/><path d="M0 1440h1086"/></g>
+  <path d="M190 1448c30-260 170-390 353-390s323 130 353 390z" fill="#ededed"/>
+  <rect x="478" y="900" width="130" height="190" rx="40" fill="#e3b089"/>
+  <ellipse cx="543" cy="640" rx="230" ry="290" fill="#eac1a0"/>
+  <path d="M330 360c0-150 80-220 213-220s213 70 213 220c-10-10-30-70-213-70s-203 60-213 70z" fill="#1d1d1d"/>
+  <g fill="none" stroke="#3a2a20" stroke-width="14">
+    <rect x="390" y="590" width="130" height="100" rx="34"/><rect x="566" y="590" width="130" height="100" rx="34"/>
+    <path d="M520 630h46"/>
+  </g>
+  <circle cx="455" cy="642" r="16" fill="#1a1a1a"/><circle cx="631" cy="642" r="16" fill="#1a1a1a"/>
+  <path d="M480 820q63 40 126 0" fill="none" stroke="#7a3e2a" stroke-width="14" stroke-linecap="round"/>
+  <text x="543" y="1380" text-anchor="middle" font-family="Arial" font-size="40" fill="#00000055">PLACEHOLDER PORTRAIT</text>
+</svg>
